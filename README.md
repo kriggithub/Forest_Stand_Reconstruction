@@ -48,7 +48,7 @@ The repository does not spell out the site names. The raw GUMO sheets already co
 | `refYears.R` | `forestStandReconstruction()` over many reference years, with example runs |
 | `ForestReconstructionFunc.R` | Step-by-step modular functions and the first combined function |
 | `GUMOtest.R` | Early tests on the GUMO and Alpine data |
-| `liveTrees.R` | Original hard-coded prototype (Alpine, 1960); `liveTrees.RData` is its saved workspace |
+| `liveTrees.R` | Original hard-coded prototype (Alpine, 1960); running it saves `liveTrees.RData` (generated locally, not tracked) |
 | `standReconTests.R` | `standRecon()` runs on Corwina, plus result tables and base-R plots |
 | `corwinaPlotting.R` | ggplot basal-area and density figures for Corwina |
 | `initialPlots.R` | Plots of density and basal area against reference year |
